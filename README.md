@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Android App Development in Java.
 - 💞️ I’m looking to collaborate on Projects on App Development.
 - 📫 Reach me through my email anshaligupta10@gmail.com or through my Github.
-- 😄 Pronouns: 
 - ⚡ Fun fact: I also don't know the meaning of my name.
 
 <!---
