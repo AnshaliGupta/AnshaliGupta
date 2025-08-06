@@ -2,8 +2,7 @@
 - 👀 I’m interested in Android App Development and Game Development.
 - 🌱 I’m currently learning Android App Development in Java.
 - 💞️ I’m looking to collaborate on Projects on App Development.
-- 📫 Reach me through my email anshaligupta10@gmail.com or through my Github.
-- ⚡ Fun fact: I also don't know the meaning of my name.
+- 📫 Reach me through my email anshali89640@gmail.com or through my Github.
 
 <!---
 AnshaliGupta/AnshaliGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
