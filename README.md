@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshali Gupta
-- 👀 I’m interested in Android App Development and Game Development.
-- 🌱 I’m currently learning Android App Development in Java.
+- 👀 I’m interested in App Development and Game Development.
+- 🌱 I’m currently focussing on App Development in flutter.
 - 💞️ I’m looking to collaborate on Projects on App Development.
 - 📫 Reach me through my email anshali89640@gmail.com or through my Github.
 
